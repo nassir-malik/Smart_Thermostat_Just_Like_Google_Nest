@@ -7,8 +7,9 @@
 https://youtu.be/-ZPJysTqcno
 
 
-## YouTube Tutorial Part # 1
+## YouTube Tutorial Part # 2
 
+https://youtu.be/57MfhvJyODo
 
 
 ## Steinhart-Hart model coefficients Calculator 

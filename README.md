@@ -39,4 +39,4 @@ https://www.aliexpress.com/item/32705466032.html?spm=a2g0o.productlist.0.0.4c535
 1 x capacitor 470uf 63v
 1 x capacitor 470uf 16v
 
-![alt text](https://github.com/nassir-malik/Smart_Thermostat_Just_Like_Google_Nest/tree/master/Part%20%23%203/tutorial #3.jpg)
+![alt text](https://github.com/nassir-malik/Smart_Thermostat_Just_Like_Google_Nest/blob/master/Part%20%23%203/tutorial%20%233.jpg)

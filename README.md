@@ -33,10 +33,15 @@ https://www.aliexpress.com/item/32705466032.html?spm=a2g0o.productlist.0.0.4c535
 1 x voltage ragulator (30 v dc to 5v dc) -https://www.aliexpress.com/item/32671102728.html?spm=a2g0s.9042311.0.0.27424c4dNYkbjd
 
 3 X 3.4v LEDs
+
 3 X GL5528 LDR
+
 2 pole/3 pole Screw Terminal Block one each
+
 1 x resistor that matches Thermistor resistance
+
 1 x capacitor 470uf 63v
+
 1 x capacitor 470uf 16v
 
 ![alt text](https://github.com/nassir-malik/Smart_Thermostat_Just_Like_Google_Nest/blob/master/Part%20%23%203/tutorial%20%233.jpg)
